@@ -1,0 +1,7 @@
+scripts
+.drone*
+.git
+.cache
+.git
+_site
+build_out
